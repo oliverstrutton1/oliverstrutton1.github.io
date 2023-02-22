@@ -1,1 +1,6 @@
 # oliverstrutton1.github.io
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "iCare-Homehelp.me",
+  "Id": "76e8ab4a-9090-4e9c-8b79-121048bc67b4"
+}
